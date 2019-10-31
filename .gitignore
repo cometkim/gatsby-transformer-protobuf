@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+# build output
+/gatsby-*.js
+/proto3.js
